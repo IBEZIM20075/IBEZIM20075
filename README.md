@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @IBEZIM20075
 - 👀 I’m interested in coding and programming
-- 🌱 I’m currently learning html and css
+- 💻 iam  web developer ( html, css and JavaScript)
 - 💞️ I’m looking to collaborate on with you guys
 - 📫 How to reach me ...(ibezim821@gmail.com)
 - 😄 Pronouns: English
